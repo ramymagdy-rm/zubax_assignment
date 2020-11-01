@@ -1,0 +1,3 @@
+/home/botable/Documents/zubax_assignment/task_one/build/CMakeFiles/rebuild_cache.dir
+/home/botable/Documents/zubax_assignment/task_one/build/CMakeFiles/edit_cache.dir
+/home/botable/Documents/zubax_assignment/task_one/build/CMakeFiles/output.dir
